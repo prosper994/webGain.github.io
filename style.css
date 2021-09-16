@@ -1,0 +1,49 @@
+header{text-align: center;
+  height: 100px;
+  width: 100%;}
+.strategie{height: 150px;
+width: 450px;
+margin: 1px;
+}
+
+p{ text-shadow: 01px 01px 3px black;
+  border: 2px beige solid;
+  padding: 20px;
+  height: 350px;
+  overflow: auto;
+font-size:11px;
+color: blue;
+  background: lightcyan;
+}
+.work{height:30px;
+width:70px;
+float: right;
+}
+.customers{height:30px;
+width:70px;
+float: right;}
+
+aside{background: mistyrose;
+ width: 150px;
+height: 180px;
+float: right;
+margin-left: 15px;
+margin-bottom: 10px;
+overflow: auto;
+font-size: 8px;
+text-align: justify;
+padding: 5px;
+text-shadow: 1px 2px 3px darkgray;
+}
+aside li{display: inline-block;
+margin: auto;
+}
+.azouza{height: 70px;
+  width: 50px;
+  padding: 1px;
+}
+nav li{display: inline-block;
+text-transform: uppercase;
+margin-right: 25px;
+border: 1px rosybrown dotted;
+}
